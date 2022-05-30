@@ -664,7 +664,7 @@ p{
         letter-spacing: .9em;
     }
     .slider{
-        display: none;
+        object-fit: cover;
     }
     .form__bike-img{
         width: 270px;
